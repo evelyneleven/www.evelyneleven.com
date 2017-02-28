@@ -1,0 +1,19 @@
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# IDE - Sublime
+www-evelyneleven-com.sublime-project
+www-evelyneleven-com.sublime-workspace
+
+# Less/CSS pre-processor - CodeKit
+config.codekit3
+
+
+#System Files
+.DS_Store
+Thumbs.db
+
